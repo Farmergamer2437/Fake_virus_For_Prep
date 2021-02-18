@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Farmergamer2437/Fake_virus_For_Prep/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Farmergamer2437/Fake_virus_For_Prep/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+  <h6>The official Flash Player</h6>
+<h1><img src="data:image/png;base64,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" alt="" />FLASH PLAYER&nbsp;</h1>
+<p>Oh no something happened on our servers and it caused us to have to reboot all of them. We will have to make you reboot the software. You will need to pay 183245849482439149218943595829348$ in order to get your flash player to be back to normal. We are sorry that this has to happen.</p>
+<p></p>
+<p style="text-align: center;"><button onclick="myFunction()">CLICK HERE TO UPDATE YOUR FLASH PLAYER</button></p>
+<p>
+<script>
+function myFunction() {
+  var x = document.createElement("BUTTON");
+  var t = document.createTextNode("CLICK IT AGAIN");
+  x.appendChild(t);
+  document.body.appendChild(x);
+}
+</script>
+</p>
+</html>
